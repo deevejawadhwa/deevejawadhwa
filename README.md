@@ -4,7 +4,8 @@
 </em></p>
 
 
-[![Linkedin:Deeveja Wadhwa](https://www.linkedin.com/in/deeveja-wadhwa-289a8a241/?originalSubdomain=in)
+## 🌐Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeveja-wadhwa/) 
 [![GitHub Deeveja](https://github.com/deevejawadhwa)
 
 
