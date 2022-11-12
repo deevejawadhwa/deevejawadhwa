@@ -13,7 +13,7 @@
 ```javascript
 const deeveja = {
   pronouns: "she" | "her",
-  code: [HTML, C++, Python, Java],
+  code: [HTML, C++, Python, CSS],
  
 ```
 
