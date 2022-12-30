@@ -6,7 +6,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 # 💫 About Me:
-I'm currently a student of computer science.<br>I'm looking to collaborate on essential projects.<br>I'm currently learning java and python.<br>Ask me about open source and any tech-related stuff.<br>Connect with me on LinkedIn @deevejawadhwa<br>My pronouns are she/her.<br>Fun fact: I spend almost 30% of my day in a metro.
+I'm currently a student of computer science.<br>I'm looking to collaborate on essential projects.<br>I'm currently learning java and python.<br>Ask me about open source and any tech-related stuff.<br>Connect with me on LinkedIn @deevejawadhwa<br>My pronouns are she/her.<br>Fun fact: I spend good amount of my day in metro.
 
 
 ## 🌐 Socials:
